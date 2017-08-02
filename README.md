@@ -1,7 +1,7 @@
 # SimpleKeyChainDemo
 <ol>
-<li>1.使用时，将KeyChainManager.swift拷贝到你的项目中</li>
-<li>2.创建KeyChainManager的单例</li>
+<li>使用时，将KeyChainManager.swift拷贝到你的项目中</li>
+<li>创建KeyChainManager的单例</li>
      <pre><code>let keyChainManager = KeyChainManager.shareInstance</code></pre>      
 <li>创建或更新帐户</li>
      //1.当需要创建或更新帐户信息时，创建AccountStruct的结构体
